@@ -1,5 +1,5 @@
 {
-    "name": "zappmonkey/php-watcher",
+    "name": "tomjvdberg/php-watcher",
     "type": "library",
     "description": "Automatically restart PHP application once the source code changes",
     "license": "MIT",
